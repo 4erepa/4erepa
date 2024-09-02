@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @4erepa
+- 👋 Hi, I’m Daniel
 - 👀 I’m interested in Airsoft, Coding, Fishing
 - 🌱 I’m currently learning Java, HTML, CSS and JavaScript. I main HTMl, CSS and JavaScript
 - 💞️ I’m looking to collaborate on any projects.
